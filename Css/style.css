@@ -1,0 +1,60 @@
+*{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+body{
+    background: url('https://besthqwallpapers.com/Uploads/21-7-2020/137808/happy-birthday-allan-birthday-balloons-background-allan-wallpapers-with-names-allan-happy-birthday.jpg');
+    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+section.intro {
+    background: #fff;
+}
+section{
+    padding: 40px;
+}
+
+h1,h2{
+    font-family: 'Lobster', cursive;
+    color: #e22f8f;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 32px;
+}
+
+aside.left{
+    float: left;
+}
+aside.right{
+    float: right;
+}
+
+aside {
+    margin-right: 24px;
+}
+.hero img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+
+.container{
+    width: 600px;
+    margin: 100px auto;
+
+  
+}
+.picture{
+    width: 50px;
+}
